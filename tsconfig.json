@@ -13,7 +13,9 @@
      * of JS in `.svelte` files.
      */
     "allowJs": true,
-    "checkJs": true
+    "checkJs": true,
+    "types": ["vite-plugin-pwa/client"],
+    "typeRoots": ["./src/types"]
   },
   "include": [
     "public/src/**/*.d.ts",
