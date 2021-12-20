@@ -8,5 +8,5 @@
   <h1>Sample PWA</h1>
 </header>
 <main>
-  <p>Content</p>
+  <p>This will work offline</p>
 </main>

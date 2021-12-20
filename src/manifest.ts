@@ -4,7 +4,7 @@ const manifest: Partial<ManifestOptions> = {
   name: "Sample PWA",
   short_name: "PWA",
   description: "A sample PWA built with Vite",
-  theme_color: "salmon",
+  theme_color: "#0e7fff",
   icons: [
     {
       src: "pwa-192x192.png",
